@@ -2,3 +2,4 @@
 * [Price Reductions](price-reductions.md)
 * [Okta](okta.md)
 * [ZOIT](zoit.md)
+* [Exposing Localhost](exposing-localhost.md)
