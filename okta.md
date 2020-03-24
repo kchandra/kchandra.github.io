@@ -8,7 +8,8 @@ Web App -> Okta : Authorization Code Request /authorize
 Okta --> User : Redirect to login page
 User -> Okta : Authenticate
 Okta --> Web App : Authorizaton Code
-Web App -> Okta : Authorization Code, Client ID, Client Secret to /oauth/token
+Web App -> Okta : Authorization Code + Client ID + Client Secret to /oauth/token
+Note over Okta : Validate Authorization Code + Client ID + Client Secret
 Okta --> Web App : ID Token and Access Token
 Web App -> Your Api : Make api call with Access Token
 Your Api --> Web App : Response
@@ -29,3 +30,4 @@ Okta --> Web App : ID Token and Access Token
 Web App -> Your Api : Make api call with Access Token
 Your Api --> Web App : Response
 ```
+
