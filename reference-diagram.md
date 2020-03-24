@@ -1,16 +1,6 @@
-# Price reductions
+# Reference
 
-## MVP
-### Price Reduction Ingestion
-
-### Price Reduction Approvals
-
-### Notifications
-
-## Post MVP
-- [ ] Escalations on reductions that were not approved
-- [ ] Verifying that reductions were made
-- [ ] Automatically sending emails for approvals
+## Sequece Diagram
 
 ```sequence-diagram
 Alice -> Bob : Authentication Request
@@ -19,6 +9,8 @@ Bob --> Alice : Authentication Response
 Alice -> Bob : Another authentication Request
 Bob --> Alice : another authentication Response
 ```
+
+## State Diagram
 
 ```mermaid
 stateDiagram
@@ -30,6 +22,9 @@ stateDiagram
     Moving --> Crash
     Crash --> [*]
 ```
+
+## Flowchart
+
 ```mermaid
 graph TD
 A[Christmas] -->|Get money| B(Go shopping)

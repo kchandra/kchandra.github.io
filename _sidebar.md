@@ -1,5 +1,4 @@
 * [Home](/)
-* [Price Reductions](price-reductions.md)
+* [Reference Diagrams](reference-diagram.md)
 * [Okta](okta.md)
-* [ZOIT](zoit.md)
 * [Exposing Localhost](exposing-localhost.md)
