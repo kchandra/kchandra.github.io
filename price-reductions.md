@@ -13,7 +13,6 @@
 - [ ] Automatically sending emails for approvals
 
 ```sequence-diagram
-
 Alice -> Bob : Authentication Request
 Bob --> Alice : Authentication Response
 
