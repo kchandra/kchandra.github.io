@@ -3,6 +3,6 @@
 * [Okta](okta.md)
 * [Exposing Localhost](exposing-localhost.md)
 * [Cura](cura.md)
-* [Kafka](kakfa.md)
+* [Kafka](kafka.md)
 * [Camel](camel.md)
 * [Lunr](lunr.md)
