@@ -1,3 +1,5 @@
-# Headline
+# Projects to explore
 
-> An awesome project.
+## https://github.com/cube-js/cube.js
+
+## https://togetherjs.com
