@@ -1,4 +1,4 @@
-# Questsion
+# Questions
 1. Write the code to replay a list of HTTP requests from a file represented as JSON  
 2. Design an API for tracking events in different clients  
 3. Write a map implementation with a get function that lets you retrieve the value of a key at a particular time.
@@ -12,3 +12,6 @@ get(A, t:3) -> 2
 5. Write a function which, given the list of currently allocated server numbers, returns the number of the next server to allocate. In addition, you should demonstrate your approach to testing that your function is correct. You may choose to use an existing testing library for your language if you choose, or you may write your own process if you prefer. 
 6. Write a name tracking class with two operations, allocate(host_type) and deallocate(hostname). The former should reserve and return the next available hostname, while the latter should release that hostname back into the pool.  
 https://www.pathrise.com/companies/stripe 
+
+## Resources
+- https://www.ideserve.co.in/learn/array-interview-questions
